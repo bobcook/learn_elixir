@@ -1,6 +1,12 @@
 # Issues
 
-**TODO: Add description**
+Lists Issues on a Github project
+When Erlang is installed run the package as;
+   $ ​./issues elixir-lang elixir 3
+   or
+   $ .issues <account> <projectname> <number_of_issues>
+
+Dave Thomas. Programming Elixir 1.2 (Kindle Locations 6577-6580). The Pragmatic Bookshelf, LLC. 
 
 ## Installation
 
